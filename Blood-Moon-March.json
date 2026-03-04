@@ -1,6 +1,6 @@
 {
 	"Name": "Round one balancing",
-	"Version": 1772493323,
+	"Version": 1772618194,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "This preset does not include any whitelists for rounds 3 and 4. Use at your own risk. If you find any issues, @Serenity on Discord. ",
 	"Tiers": [
@@ -51,6 +51,7 @@
 				"83",
 				"84",
 				"86",
+				"90",
 				"94",
 				"96",
 				"98",
